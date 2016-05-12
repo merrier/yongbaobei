@@ -1,0 +1,162 @@
+@charset "utf-8";
+/**
+ * Created by Merrier on 2016/4/2.
+ */
+/* CSS Document */
+.wrp_joinus>.main_box{
+    margin-bottom: 40px;
+}
+
+.joinus_box_titleshort>img{
+    width:365px;
+}
+
+.joinus_box_titleshort>.box_title_des{
+    line-height: 115px;
+    font-size: 32px;
+    text-indent: 35px;
+}
+
+.joinus_brand_box>h4,.joinus_brand_box>span{
+    position: absolute;
+    right: 0;
+    width:715px;
+    font-size: 14px;
+    font-family: "SimSun", "宋体";
+    color: #767676;
+}
+
+.joinus_brand_box>h4{
+    font-weight: bold;
+    top: 0;
+}
+
+.joinus_brand_box>span{
+    top: 35px;
+    line-height: 25px;
+}
+
+.joinus_term_condiv{
+    margin-top: 70px;
+}
+
+.joinus_con_term{
+    padding-top: 36px;
+    padding-bottom: 1px;
+}
+
+.joinus_con_term>img{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.joinus_condiv_textbox{
+    margin-bottom: 52px;
+}
+
+.term_textbox_title{
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+
+.term_textbox_title>img{
+    float: left;
+    margin-right: 10px;
+}
+
+.term_textbox_title>h3{
+    float: left;
+    font-size: 20px;
+    color:#0099ff;
+    line-height: 20px;
+}
+
+.joinus_condiv_textbox>p{
+    margin-bottom: 28px;
+    font-size: 14px;
+    font-family: "SimSun", "宋体";
+    color: #767676;
+}
+
+.term_textbox_top{
+    height:30px;
+    line-height: 30px;
+    margin-bottom: 13px;
+}
+
+.term_textbox_top>img{
+    float: left;
+    margin-right: 15px;
+}
+
+.term_textbox_top>h4{
+    color:#f8f8f8;
+    position: absolute;
+    left: 17px;
+    top: 0;
+}
+
+.term_textbox_top>span{
+    float: left;
+    display: block;
+    height:30px;
+    line-height: 30px;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: "SimSun", "宋体";
+    color: #444444;
+}
+
+.term_textbox_list li{
+    margin-bottom: 22px;
+    height:26px;
+    line-height: 26px;
+}
+
+.term_textbox_list img{
+    float: left;
+    margin-right: 20px;
+}
+
+.term_textbox_list span{
+    float: left;
+    display: block;
+    height:26px;
+    line-height: 24px;
+    font-size: 14px;
+    font-family: "SimSun", "宋体";
+    color: #444444;
+}
+
+.joinus_box_titlelong{
+    margin-bottom: 30px;
+}
+
+.joinus_box_titlelong>img{
+    width:410px;
+}
+
+.joinus_box_titlelong>.box_title_des{
+    line-height: 115px;
+    font-size: 32px;
+    text-indent: 60px;
+}
+
+.joinus_support_list li{
+    margin-bottom: 22px;
+}
+
+.joinus_support_list h3{
+    position: absolute;
+    font-size: 18px;
+    top: 11px;
+    left: 15px;
+}
+
+.joinus_support_list span{
+    position: absolute;
+    color: #444444;
+    top: 13px;
+    left: 210px;
+}

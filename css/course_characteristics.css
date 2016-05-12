@@ -1,0 +1,107 @@
+@charset "utf-8";
+/**
+ * Created by Merrier on 2016/4/2.
+ */
+/* CSS Document */
+.coucha_box_top{
+    margin-bottom: 30px;
+}
+
+.coucha_top_con{
+    height:160px;
+    margin-bottom: 30px;
+}
+
+.coucha_top_main{
+    height:140px;
+    width:875px;
+    border-bottom: 3px dotted #e4e4e4;
+}
+
+.coucha_top_leftcon>.coucha_top_main{
+    float: left;
+}
+
+.coucha_top_rightcon>.coucha_top_main{
+    float: right;
+}
+
+.coucha_top_con>img{
+    position: absolute;
+    top: 0;
+}
+
+.coucha_top_leftcon>img{
+    right:0;
+}
+
+.coucha_top_rightcon>img{
+    left:0;
+}
+
+.coucha_top_main>span{
+    font-size: 14px;
+    font-family: "SimSun", "宋体";
+    color: #767676;
+    position: absolute;
+}
+
+.coucha_top_leftcon>.coucha_top_main>img{
+    position: absolute;
+    left: 0;
+}
+
+.coucha_top_rightcon>.coucha_top_main>img{
+    position: absolute;
+    left:60px;
+}
+
+.coucha_top_main2>img{
+    bottom:75px;
+}
+
+.coucha_top_main2>span{
+    bottom: 15px;
+    left: 60px;
+    right: 0;
+    line-height: 23px;
+}
+
+.coucha_top_leftcon>.coucha_top_main2>span{
+    left:0;
+    right:60px;
+}
+
+.coucha_top_leftcon>.coucha_top_main1>img{
+    position: absolute;
+    left: 0;
+    bottom: 50px;
+}
+
+.coucha_top_main1>span{
+    bottom: 15px;
+    left: 0;
+}
+
+.swiadv_con_left{
+    float: left;
+    width:680px;
+    height:254px;
+    padding:20px;
+    background-color: #f8f8f8;
+}
+
+.swiadv_con_right{
+    float: right;
+}
+
+.swiadv_con_left>div{
+    font-family: "SimSun", "宋体";
+    font-size: 14px;
+    color: #444444;
+    line-height: 24px;
+}
+
+.swiadv_con_text1{
+    margin-bottom: 25px;
+}

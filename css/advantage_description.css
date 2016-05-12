@@ -1,0 +1,79 @@
+@charset "utf-8";
+/**
+ * Created by Merrier on 2016/4/2.
+ */
+/* CSS Document */
+
+.wrp_advdes .main_box{
+    margin-bottom: 50px;
+}
+
+.box_content_div{
+    width:490px;
+}
+
+.box_content_div img{
+    width:100%;
+}
+
+.advdes_div_left{
+    float: left;
+}
+
+.advdes_div_right{
+    float: right;
+}
+
+.box_content_div span{
+    position: absolute;
+    font-size: 12px;
+    font-family: "SimSun", "宋体";
+    color:#444444;
+    left: 0;
+    top: 170px;
+    width: 380px;
+    margin-left: 55px;
+    line-height: 22px;
+}
+
+.advdes_course_condiv{
+    height:360px;
+}
+
+.advdes_con_course>span{
+    position: absolute;
+    top: 90px;
+    left: 0;
+    font-size: 14px;
+    font-family: "SimSun", "宋体";
+    color: #444444;
+    line-height: 25px;
+}
+
+.advdes_con_course>img{
+    position: absolute;
+}
+
+.advdes_course_1{
+    top: 195px;
+    left: 0;
+}
+
+.advdes_course_2{
+    top: 195px;
+    left: 375px;
+}
+
+.advdes_course_3{
+    top: 195px;
+    left: 660px;
+}
+
+.advdes_watqua_box>span{
+    position: absolute;
+    right: 0;
+    width:682px;
+    line-height: 28px;
+    font-family: "Microsoft Yahei", "微软雅黑";
+    color:#767676;
+}

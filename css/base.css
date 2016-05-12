@@ -1,0 +1,253 @@
+@charset "utf-8";
+/**
+ * Created by Merrier on 2016/4/2.
+ */
+ /* CSS Document */
+*{
+	margin:0;
+	padding:0;
+	position: relative;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+
+body{
+	font-size:16px;
+	font-family:"Microsoft Yahei","微软雅黑";/*改动*/
+	color:#fff;
+	background-color: #ffffff;
+}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration:none;
+}
+
+ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+h1, h2, h3, h4, h5, h6 { font-size:1em;font-weight:normal;}
+
+
+/*导航栏*/
+.wrp{
+	width:100%;
+	min-width: 1000px;
+}
+
+.header{
+	height:120px;
+	width:1000px;
+	margin:0 auto;
+}
+
+.img_join_hotline{
+	position: absolute;
+	top: 0;
+	right:0;
+	width:336px;
+}
+
+.img_logo{
+	position: absolute;
+	top:25px;
+	left:0;
+	width:200px;
+}
+
+.header_nav{
+	position: absolute;
+	right:0;
+	bottom:0;
+	font-size: 20px;
+	color:#333333;
+	height:50px;
+}
+
+.header_nav_item{
+	float: left;
+	line-height: 40px;
+	margin-left: 40px;
+}
+
+.header_nav_item>a{
+	color:#333333;
+}
+
+.header_item_now{
+	border-bottom: 4px solid #ff7e24;
+}
+
+.header_item_hover{
+	border-bottom: 4px solid #ff7e24;
+}
+
+.mid_imgbox{
+	width:100%;
+	background-color: #6ec7f5;
+	box-shadow: 0 5px 5px #ccc;
+	margin-top: -6px;
+	margin-bottom: 50px;
+}
+
+.mid_imgbox img{
+	display: block;
+	width:973px;
+	margin: 0 auto;
+}
+
+/*主体部分*/
+.main_box{
+	overflow: hidden;
+	margin-bottom: 70px;
+}
+
+.main_box_title{
+	width:100%;
+	margin-bottom: 20px;
+	z-index: 2;
+}
+
+.des_box_title{
+	position: absolute;
+	top: 0;
+}
+
+.main_box_title>img{
+	display: block;
+	width:350px;
+	margin: 0 auto;
+}
+
+.box_title_des{
+	position: absolute;
+	line-height: 48px;
+	top: 0;
+	width: 100%;
+	text-align: center;
+	font-size: 32px;
+}
+
+.box_title_des7,.box_title_des8{
+	text-indent: 25px;
+}
+
+.main_box_content{
+	width:1000px;
+	margin:0 auto;
+}
+
+.main_box_condiv{
+	margin-top: 20px;
+	background-color: #f8f8f8;
+	overflow: hidden;
+}
+
+.text_link_white{
+	color: #ffffff;
+}
+
+.text_link_black{
+	color:#444444;
+}
+
+.text_link_gray{
+	color:#767676;
+}
+
+.text_link_white:hover,.text_link_black:hover,.text_link_gray:hover{
+	text-decoration: underline;
+}
+
+
+
+/*em样式*/
+.em_text_red{
+	color:#ff7e24;
+	font-family: "SimSun", "宋体";
+	font-style: normal;
+}
+
+.em_text_bold{
+	color:#0099ff;
+	font-family: "Microsoft Yahei", "微软雅黑";
+	font-style: normal;
+	font-size: 18px;
+}
+
+.em_text_blue{
+	font-style: normal;
+	color:#0099ff;
+	font-family: "Microsoft Yahei", "微软雅黑";
+}
+
+/*教官资质*/
+.teaqua_show_box{
+	float: left;
+	width:205px;
+	margin-right: 60px;
+}
+
+.teaqua_show_lastbox{
+	margin-right: 0;
+}
+
+.teaqua_showbox_bottom{
+	margin: 0 auto;
+	margin-top: 21px;
+	color: #ff7e24;
+	text-align: center;
+	overflow: hidden;
+	display: table;
+
+}
+
+.teaqua_showbox_bottom>img{
+	margin-right: 10px;
+	float: left;
+}
+
+.teaqua_showbox_bottom>span{
+	line-height: 25px;
+	float: left;
+}
+
+
+
+
+/*底部*/
+.wrp_footer{
+	height:180px;
+	width:100%;
+	background-color: #006BB2;
+}
+
+.footer_box{
+	width:1000px;
+	margin: 0 auto;
+}
+
+.footer_left{
+	position: absolute;
+	top: 25px;
+	line-height: 50px;
+}
+
+.footer_left h2{
+	font-size: 30px;
+	font-family: "Arial";
+}
+
+.footer_right{
+	position: absolute;
+	top: 25px;
+	right:0;
+	line-height: 40px;
+}

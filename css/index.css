@@ -1,0 +1,192 @@
+@charset "utf-8";
+/**
+ * Created by Merrier on 2016/4/2.
+ */
+/* CSS Document */
+
+
+.box_content_div{
+    float: left;
+    width:310px;
+    margin-right: 34px;
+}
+
+.box_content_div>span{
+    position: absolute;
+}
+
+.box_content_lastdiv{
+    margin-right: 0;
+}
+
+.content_div_title{
+    left: 0;
+    top: 150px;
+    width:100%;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.content_div_con{
+    top: 200px;
+    width:270px;
+    left: 20px;
+    font-size: 12px;
+    font-family: "SimSun","宋体";
+    line-height: 25px;
+}
+
+.main_box_condiv{
+    width:100%;
+    overflow: hidden;
+    background-color: #f8f8f8;
+}
+
+.box_content_agepro{
+    padding: 35px 0;
+    overflow: hidden;
+}
+
+.box_content_agepro>h3{
+    float: left;
+    line-height: 55px;
+    font-size: 16px;
+    color: #ff7e24;
+    font-weight: bold;
+}
+
+.box_content_agepro>span{
+    position: absolute;
+    left: 0;
+    top: 110px;
+    width: 485px;
+    font-size: 14px;
+    font-family: "SimSun", "宋体";
+    color: #444444;
+    line-height: 30px;
+}
+
+.box_content_agepro>img{
+    float: right;
+    margin-left: 10px;
+}
+
+.coucha_box{
+    float: left;
+    width:250px;
+    border-right: 3px dotted #dedede;
+    height:300px;
+    margin-bottom: 10px;
+}
+
+.coucha_box>img{
+    display: block;
+    margin: 15px auto;
+    margin-bottom: 10px;
+}
+
+.coucha_box>h4{
+    text-align: center;
+    width: 100%;
+    font-size: 18px;
+    color:#ff7e24;
+    margin-bottom: 12px;
+}
+
+.coucha_box>span{
+    display: block;
+    width:200px;
+    margin: 0 auto;
+    font-size: 12px;
+    color:#767676;
+    line-height: 20px;
+}
+
+.main_box_condivwhite{
+    background-color: #ffffff;
+}
+
+.box_content_coucha{
+    height:310px;
+}
+
+.arrow_down_span{
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 25px;
+    border-color: #ffffff transparent transparent transparent;
+    left: 50%;
+    margin-left: -27px;
+    bottom: -70px;
+    z-index: 2;
+}
+
+.coucha_box_content{
+    height:335px;
+}
+
+.coucha_box_content>img{
+    position: absolute;
+    top: 60px;
+    left: 0;
+}
+
+.coucha_box_content>h4{
+    position: absolute;
+    font-size: 22px;
+    color: #444444;
+    font-weight: bold;
+    top: 50px;
+    left: 390px;
+}
+
+.coucha_box_content>span{
+    position: absolute;
+    left: 390px;
+    font-family: "SimSun", "宋体";
+    font-size: 14px;
+    line-height: 22px;
+    color: #444444;
+}
+
+.coucha_con_span1{
+    top: 100px;
+}
+
+.coucha_con_span2{
+    top: 210px;
+}
+
+.main_teaqua_box{
+    width:1200px;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.teaqua_box_arrow{
+    position: absolute;
+    top:100px;
+    cursor: pointer;
+}
+
+.teaqua_arrow_left{
+    left:0;
+}
+
+.teaqua_arrow_right{
+    right:0;
+}
+
+.box_content_teaqua{
+    overflow: hidden;
+}
+
+.teaqua_cer_show{
+    width:2000px;
+}
+
+
+

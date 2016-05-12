@@ -1,0 +1,102 @@
+@charset "utf-8";
+/**
+ * Created by Merrier on 2016/4/2.
+ */
+/* CSS Document */
+
+.about_us_1{
+    margin-top: 15px;
+}
+
+.aboutus_box_agepro{
+    margin-bottom: 30px;
+}
+
+.aboutus_con_agepro h3{
+    position: absolute;
+    top: 65px;
+    left: 327px;
+    color:#ff6600;
+}
+
+.aboutus_agepro_span{
+    position: absolute;
+    top:100px;
+    left:327px;
+    color:#767676;
+    font-size: 14px;
+    line-height: 25px;
+}
+
+.aboutus_braadv_condiv img{
+    float: right;
+    padding-top:80px;
+    padding-bottom: 50px;
+}
+
+.aboutus_con_braadv>span{
+    position: absolute;
+    left: 0;
+    line-height: 25px;
+    font-size: 14px;
+    font-family: "SimSun", "宋体";
+    color: #767676;
+}
+
+.aboutus_braadv_text1{
+    width: 440px;
+    top:75px;
+}
+
+.aboutus_braadv_text2{
+    top: 210px;
+    width: 450px;
+}
+
+.aboutus_braadv_text2>em{
+    font-style: normal;
+    color: #ff6600;
+}
+
+.relent_box_left{
+    float: left;
+    margin-bottom: 25px;
+}
+
+.relent_box_right{
+    float: right;
+    margin-bottom: 25px;
+}
+
+.relent_box>h3{
+    position: absolute;
+    font-size: 18px;
+    color:#0099ff;
+    font-weight: bold;
+    top: 25px;
+    left: 140px;
+}
+
+.relent_box>span{
+    position: absolute;
+    font-size: 14px;
+    font-family: "SimSun", "宋体";
+    color: #444444;
+}
+
+.relent_box_left>span{
+    top: 75px;
+    left: 140px;
+}
+
+.relent_box_right>span{
+    top: 60px;
+    left: 140px;
+    line-height: 25px;
+    width: 310px;
+}
+
+.relent_box_right>.relent_box_brtext{
+    top: 85px;
+    left: 140px;
+}

@@ -1,0 +1,39 @@
+@charset "utf-8";
+/**
+ * Created by Merrier on 2016/4/2.
+ */
+/* CSS Document */
+.contactus_content{
+    width:760px;
+    margin: 0 auto;
+    margin-top: 33px;
+}
+
+.contactus_phone_title{
+    margin-bottom: 10px;
+}
+
+.contactus_phone_title>img{
+    float: left;
+    margin-right: 10px;
+    margin-top: 4px;
+}
+
+.contactus_phone_title>span{
+    font-size: 18px;
+    font-weight: bold;
+    color: #666666;
+}
+
+.contactus_content>p{
+    font-size: 44px;
+    font-family: Arial;
+    color:#ff7e24;
+    margin-bottom: 30px;
+}
+
+.contactus_con_main{
+    line-height: 30px;
+    color: #666666;
+    margin-bottom: 35px;
+}
