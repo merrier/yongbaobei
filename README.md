@@ -6,10 +6,10 @@
 
 ### 目录
 
-* [首页](https://merrier.github.io/Yongbaobei/index.html)
-* [关于我们](https://merrier.github.io/Yongbaobei/about_us.html)
-* [优势说明](https://merrier.github.io/Yongbaobei/advantage_descirption.html)
-* [课程特色](https://merrier.github.io/Yongbaobei/course_characteristics.html)
-* [教官资质](https://merrier.github.io/Yongbaobei/instructor_qualification.html)
-* [英才加盟](https://merrier.github.io/Yongbaobei/join_us.html)
-* [联系方式](https://merrier.github.io/Yongbaobei/contact_us.html)
+* [首页](https://merrier.github.io/yongbaobei/index.html)
+* [关于我们](https://merrier.github.io/yongbaobei/about_us.html)
+* [优势说明](https://merrier.github.io/yongbaobei/advantage_descirption.html)
+* [课程特色](https://merrier.github.io/yongbaobei/course_characteristics.html)
+* [教官资质](https://merrier.github.io/yongbaobei/instructor_qualification.html)
+* [英才加盟](https://merrier.github.io/yongbaobei/join_us.html)
+* [联系方式](https://merrier.github.io/yongbaobei/contact_us.html)
